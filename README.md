@@ -3,3 +3,4 @@
 ### add by xumin2005
 
 
+test save gpg password
