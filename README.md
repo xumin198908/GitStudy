@@ -4,3 +4,5 @@
 
 fix bug in branch issue1
 fix bug 2
+fix bug 3
+fix bug 4
